@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1020295374148",
+    "firebase_url": "https://pre-sada-e-niswa.firebaseio.com",
+    "project_id": "pre-sada-e-niswa",
+    "storage_bucket": "pre-sada-e-niswa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020295374148:android:248c40d3f6f9a93de7e311",
+        "android_client_info": {
+          "package_name": "com.example.pre_sada_e_niswa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020295374148-g5sbbfum0t6780r7nfarktiod46rp6b8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAljkzRwLQlh8e4H9tsU-unHQp6Q-IztU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020295374148-g5sbbfum0t6780r7nfarktiod46rp6b8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
